@@ -23,7 +23,7 @@ let package = Package(
 		// Targets can depend on other targets in this package and products from dependencies.
 		.binaryTarget(
 			name: "FLAC",
-			url: "https://github.com/sbooth/flac-binary-xcframework/releases/download/0.1.2/FLAC.xcframework.zip",
-			checksum: "022713c0e02f326dd3f594e5c60fe39a16e6a18e1bb96a18d8f7ea8a088d7173"),
+			url: "https://github.com/sbooth/flac-binary-xcframework/releases/download/0.1.3/FLAC.xcframework.zip",
+			checksum: "b7d747dff4bb94fa74895bdd69f35eeea06f44663ea63f43ca98a83519b49e92"),
 	]
 )
